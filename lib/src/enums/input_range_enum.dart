@@ -1,0 +1,4 @@
+enum InputRange {
+  Hundred,
+  Thousand
+}

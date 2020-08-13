@@ -1,0 +1,4 @@
+enum UnitMode {
+  Imperial,
+  Metric
+}

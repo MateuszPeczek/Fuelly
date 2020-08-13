@@ -1,0 +1,1 @@
+enum AdjustMode { Increase, Decrease }
